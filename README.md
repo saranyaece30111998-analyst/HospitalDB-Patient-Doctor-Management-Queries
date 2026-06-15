@@ -1,5 +1,5 @@
 # HospitalDB-Patient-Doctor-Management-Queries
-Here’s a polished **README.md** 
+
 
 ---
 
