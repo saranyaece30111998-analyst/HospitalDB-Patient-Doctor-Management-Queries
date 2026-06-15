@@ -1,4 +1,4 @@
-### 🏥 HospitalDB – SQL Queries & Analysis
+# 🏥 HospitalDB – SQL Queries & Analysis
 
 This repository contains SQL scripts for managing a **Hospital Database** with three core tables:  
 - **Patients**  
