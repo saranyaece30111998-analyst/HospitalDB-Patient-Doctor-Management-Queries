@@ -1,5 +1,5 @@
 # HospitalDB-Patient-Doctor-Management-Queries
-Here’s a polished **README.md** you can use directly in your GitHub repository. It’s structured with clear sections, SQL queries, and placeholders for screenshots so you can showcase your work professionally:
+Here’s a polished **README.md** you can use directly in your GitHub repository. It’s structured with clear sections, SQL queries, 
 
 ---
 
