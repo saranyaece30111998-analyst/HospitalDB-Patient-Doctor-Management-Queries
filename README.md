@@ -26,7 +26,7 @@ USE HospitalDB;
 -- Insert Doctors
 -- Insert Appointments (20 rows)
 ```
-📷 *Screenshot: Inserted records in Patients, Doctors, Appointments*
+
 
 ---
 
