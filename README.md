@@ -37,7 +37,8 @@ USE HospitalDB;
 ```sql
 SELECT PatientName, City FROM Patients WHERE City='Chennai';
 ```
-📷 *Screenshot: Patients from Chennai*
+- <img width="527" height="357" alt="Screenshot 2026-06-14 201013" src="https://github.com/user-attachments/assets/d179de06-f87b-4231-94e3-a887bc0645a5" />
+
 
 ---
 
