@@ -16,7 +16,7 @@ USE HospitalDB;
 
 -- Patients, Doctors, Appointments table creation with constraints
 ```
-📷 *Screenshot: Database schema setup*
+
 
 ---
 
