@@ -46,7 +46,7 @@ SELECT PatientName, City FROM Patients WHERE City='Chennai';
 ```sql
 SELECT PatientName, Age FROM Patients WHERE Age > 30;
 ```
-📷 *Screenshot: Patients older than 30*
+
 
 ---
 
