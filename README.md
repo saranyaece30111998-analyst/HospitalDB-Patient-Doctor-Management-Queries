@@ -27,6 +27,7 @@ USE HospitalDB;
 -- Insert Appointments (20 rows)
 ```
 
+- <img width="970" height="887" alt="Screenshot 2026-06-16 170438" src="https://github.com/user-attachments/assets/eac3dbab-8bd5-4769-ad53-e18826e0398d" />
 
 ---
 
