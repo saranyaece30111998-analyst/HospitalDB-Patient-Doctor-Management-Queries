@@ -47,6 +47,7 @@ SELECT PatientName, City FROM Patients WHERE City='Chennai';
 ```sql
 SELECT PatientName, Age FROM Patients WHERE Age > 30;
 ```
+- <img width="532" height="421" alt="Screenshot 2026-06-15 133404" src="https://github.com/user-attachments/assets/b7eaf7b9-6ddc-4701-9291-27aa69a7b4d5" />
 
 
 ---
