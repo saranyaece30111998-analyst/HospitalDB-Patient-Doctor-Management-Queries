@@ -55,7 +55,8 @@ SELECT PatientName, City
 FROM Patients 
 WHERE City='Chennai' AND Gender='Male';
 ```
-- 
+- <img width="572" height="407" alt="Screenshot 2026-06-15 133534" src="https://github.com/user-attachments/assets/48e9af7c-3c3b-4284-bea1-30e17796878e" />
+
 
 ---
 
