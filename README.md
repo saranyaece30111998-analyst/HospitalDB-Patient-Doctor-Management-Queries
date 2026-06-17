@@ -102,7 +102,8 @@ FROM Patients p
 LEFT JOIN Appointments a ON p.PatientID = a.PatientID
 ORDER BY a.AppointmentID;
 ```
-- 
+- <img width="696" height="607" alt="Screenshot 2026-06-15 135233" src="https://github.com/user-attachments/assets/aa7dd543-96a6-47ff-8f8f-f57846ee0cfe" />
+
 
 
 ---
