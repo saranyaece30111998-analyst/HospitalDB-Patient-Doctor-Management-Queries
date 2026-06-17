@@ -16,9 +16,6 @@ USE HospitalDB;
 
 -- Patients, Doctors, Appointments table creation with constraints
 ```
-- <img width="532" height="421" alt="Screenshot 2026-06-15 133404" src="https://github.com/user-attachments/assets/37ee7901-7a5e-4e34-97b0-f2941c8697aa" />
-
-
 ---
 
 ## 📌 2. Data Insertion
