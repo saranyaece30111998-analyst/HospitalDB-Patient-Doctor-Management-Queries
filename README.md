@@ -164,7 +164,7 @@ JOIN Appointments a ON a.PatientID = p.PatientID
 JOIN HospitalDoctors h ON h.DoctorID = a.DoctorID
 WHERE h.DoctorID = 1;
 ```
-📷 *Screenshot: Patients visiting Dr. Meenakshi*
+- 
 
 ---
 
