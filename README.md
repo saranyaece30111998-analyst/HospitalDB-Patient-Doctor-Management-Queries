@@ -91,8 +91,7 @@ FROM Appointments AS a
 JOIN HospitalDoctors AS d ON d.DoctorID = a.DoctorID
 ORDER BY a.AppointmentID;
 ```
-📷 *Screenshot: Patient appointments with doctors*
-
+- 
 ---
 
 ### 🔹 List all patients and their appointments (if any)
