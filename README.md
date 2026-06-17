@@ -67,7 +67,7 @@ SELECT DoctorName, Specialization
 FROM HospitalDoctors 
 WHERE Specialization IN ('Cardiology','Pediatrics');
 ```
-📷 *Screenshot: Doctors specialization*
+- 
 
 ---
 
