@@ -180,7 +180,7 @@ GROUP BY p.PatientID, p.PatientName
 ORDER BY TotalAppointments DESC
 LIMIT 1;
 ```
-📷 *Screenshot: Patient with most appointments*
+- 
 
 ---
 
