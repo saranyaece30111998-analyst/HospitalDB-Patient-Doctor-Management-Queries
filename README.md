@@ -180,7 +180,8 @@ GROUP BY p.PatientID, p.PatientName
 ORDER BY TotalAppointments DESC
 LIMIT 1;
 ```
-- 
+- <img width="592" height="436" alt="Screenshot 2026-06-15 140427" src="https://github.com/user-attachments/assets/690e5090-85fc-4baa-b4d4-9c66d5d8f462" />
+
 
 ---
 
