@@ -127,7 +127,7 @@ SELECT DoctorID, DoctorName, Experience
 FROM HospitalDoctors
 WHERE Experience > (SELECT AVG(Experience) FROM HospitalDoctors);
 ```
-- <img width="737" height="530" alt="Screenshot 2026-06-15 135303" src="https://github.com/user-attachments/assets/51e1664d-8c02-4ea7-96b9-19f044d25756" />
+- 
 
 
 ---
