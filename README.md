@@ -112,7 +112,7 @@ ORDER BY a.AppointmentID;
 SELECT * FROM Patients
 WHERE PatientID IN (SELECT PatientID FROM Appointments WHERE Status='Completed');
 ```
-📷 *Screenshot: Patients with completed appointments*
+- 
 
 ---
 
