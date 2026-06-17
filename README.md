@@ -194,7 +194,7 @@ GROUP BY d.DoctorID, d.DoctorName
 HAVING COUNT(a.AppointmentID) >= 2
 ORDER BY TotalAppointments DESC;
 ```
-📷 *Screenshot: Doctors with 2+ appointments*
+- 
 
 ---
 
