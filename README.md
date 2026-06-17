@@ -113,7 +113,7 @@ ORDER BY a.AppointmentID;
 SELECT * FROM Patients
 WHERE PatientID IN (SELECT PatientID FROM Appointments WHERE Status='Completed');
 ```
-- <img width="696" height="607" alt="Screenshot 2026-06-15 135233" src="https://github.com/user-attachments/assets/40174c54-59ec-434b-bbec-99be8064b71d" />
+- 
 
 
 ---
