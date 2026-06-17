@@ -140,7 +140,8 @@ FROM Patients p
 JOIN Appointments a ON a.PatientID = p.PatientID
 WHERE a.DoctorID = 1;
 ```
-- 
+- <img width="587" height="492" alt="Screenshot 2026-06-15 140003" src="https://github.com/user-attachments/assets/e7342e1a-f337-4fad-ac13-fe6cc0be50d7" />
+
 
 ---
 
