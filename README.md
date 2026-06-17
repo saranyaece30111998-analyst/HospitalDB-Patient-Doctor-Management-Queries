@@ -164,7 +164,8 @@ JOIN Appointments a ON a.PatientID = p.PatientID
 JOIN HospitalDoctors h ON h.DoctorID = a.DoctorID
 WHERE h.DoctorID = 1;
 ```
-- 
+- <img width="641" height="556" alt="Screenshot 2026-06-15 140214" src="https://github.com/user-attachments/assets/09b9f48b-c5a4-4db0-a946-26931e29e0d2" />
+
 
 ---
 
