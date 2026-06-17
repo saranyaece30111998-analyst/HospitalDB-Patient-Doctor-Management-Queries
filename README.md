@@ -102,7 +102,7 @@ FROM Patients p
 LEFT JOIN Appointments a ON p.PatientID = a.PatientID
 ORDER BY a.AppointmentID;
 ```
-📷 *Screenshot: Patients with appointments (including NULLs)*
+- 
 
 ---
 
