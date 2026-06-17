@@ -55,7 +55,7 @@ SELECT PatientName, City
 FROM Patients 
 WHERE City='Chennai' AND Gender='Male';
 ```
-📷 *Screenshot: Male patients in Chennai*
+- 
 
 ---
 
