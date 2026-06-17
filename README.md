@@ -125,7 +125,7 @@ SELECT DoctorID, DoctorName, Experience
 FROM HospitalDoctors
 WHERE Experience > (SELECT AVG(Experience) FROM HospitalDoctors);
 ```
-📷 *Screenshot: Doctors above average experience*
+- 
 
 ---
 
