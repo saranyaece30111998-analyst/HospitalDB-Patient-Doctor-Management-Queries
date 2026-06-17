@@ -194,7 +194,8 @@ GROUP BY d.DoctorID, d.DoctorName
 HAVING COUNT(a.AppointmentID) >= 2
 ORDER BY TotalAppointments DESC;
 ```
-- 
+- <img width="652" height="516" alt="Screenshot 2026-06-15 140503" src="https://github.com/user-attachments/assets/443d6e4c-729a-40b9-89f0-8410dc6bbedb" />
+
 
 ---
 
