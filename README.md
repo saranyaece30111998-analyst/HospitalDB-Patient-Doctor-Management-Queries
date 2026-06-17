@@ -140,7 +140,7 @@ FROM Patients p
 JOIN Appointments a ON a.PatientID = p.PatientID
 WHERE a.DoctorID = 1;
 ```
-📷 *Screenshot: Patients visiting DoctorID=1*
+- 
 
 ---
 
