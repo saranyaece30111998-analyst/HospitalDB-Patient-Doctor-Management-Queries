@@ -151,7 +151,8 @@ SELECT DoctorID, DoctorName, Experience,
        RANK() OVER (ORDER BY Experience DESC) AS ExperienceRank
 FROM HospitalDoctors;
 ```
-- 
+- <img width="772" height="477" alt="Screenshot 2026-06-15 140104" src="https://github.com/user-attachments/assets/2e044619-fc79-4ac0-bf3a-fd5677a08776" />
+
 
 ---
 
