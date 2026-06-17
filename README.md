@@ -66,7 +66,8 @@ SELECT DoctorName, Specialization
 FROM HospitalDoctors 
 WHERE Specialization IN ('Cardiology','Pediatrics');
 ```
-- 
+- <img width="777" height="475" alt="Screenshot 2026-06-15 133947" src="https://github.com/user-attachments/assets/f70abfea-77b5-4c3c-bfd2-aa8be7d904cb" />
+
 
 ---
 
