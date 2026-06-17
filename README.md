@@ -77,7 +77,8 @@ SELECT COUNT(PatientName) AS Patient_Count, City
 FROM Patients 
 GROUP BY City;
 ```
-- 
+- <img width="516" height="381" alt="Screenshot 2026-06-15 134033" src="https://github.com/user-attachments/assets/b0d71bb3-93b2-45fc-9156-84cdc58d1fd2" />
+
 
 ---
 
