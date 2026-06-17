@@ -77,7 +77,7 @@ SELECT COUNT(PatientName) AS Patient_Count, City
 FROM Patients 
 GROUP BY City;
 ```
-📷 *Screenshot: Patient count grouped by city*
+- 
 
 ---
 
