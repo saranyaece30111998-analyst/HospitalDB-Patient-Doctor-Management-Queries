@@ -151,7 +151,7 @@ SELECT DoctorID, DoctorName, Experience,
        RANK() OVER (ORDER BY Experience DESC) AS ExperienceRank
 FROM HospitalDoctors;
 ```
-📷 *Screenshot: Doctor ranking by experience*
+- 
 
 ---
 
